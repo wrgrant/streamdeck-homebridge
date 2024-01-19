@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144"><defs><linearGradient id="linearGradient-1" x1="0%" x2="99.133%" y1="0%" y2="99.133%"><stop offset="0%" stop-color="#142db3"/><stop offset="100%" stop-color="#1c40ff"/></linearGradient></defs><g id="action" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect id="Rectangle" width="144" height="144" x="0" y="0" fill="url(#linearGradient-1)"/>
+        </g>
+    <text textLength="120.1" font-size="22" x="13.3" y="49.4" fill="rgb(255, 255, 255)">
+        Homebridge
+    </text></svg>
